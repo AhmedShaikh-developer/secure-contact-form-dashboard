@@ -61,11 +61,7 @@ A full‑stack web application that provides:
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/<your‑username>/secure-contact-form-dashboard.git
+git clone https://github.com/AhmedShaikh-developer/secure-contact-form-dashboard.git
 cd secure-contact-form-dashboard
 
-### 2. Setup the Backend
 
-```bash
-cd server
-npm install
